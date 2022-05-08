@@ -13,12 +13,12 @@
     "react": "~17.0.2",
     "react-bootstrap": "~1.6.0",
     "react-dom": "~17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "web-vitals": "~1.0.1"
   },
   "scripts": {
-        "start-rs": "react-scripts start",
-        "start": "FORCE_COLOR=true yarn start-rs | cat",
+    "start-rs": "react-scripts start",
+    "start": "FORCE_COLOR=true yarn start-rs | cat",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
